@@ -17,13 +17,13 @@ Initial Adobe XD Design: https://xd.adobe.com/view/3bd98325-20f0-49e8-76b7-d4d30
 
 ![Pravda](wireframes/homepage.jpg)
 
-######Future Plans
+#### Future Plans
 
 - [ ] Create basic web crawler function
-- [x] Set up serverless API and data base(basic user functionalities, signup,login, comment on article etc.)
-- [x] Format FrontEnd Pages 
-- [x] Extend user functionalities (search database, highlight article to comment on specific portions, upvate user comments etc.)
-- [x] Deploy client on netlify and backend API on AWS/Seed
+- [ ] Set up serverless API and data base(basic user functionalities, signup,login, comment on article etc.)
+- [ ] Format FrontEnd Pages 
+- [ ] Extend user functionalities (search database, highlight article to comment on specific portions, upvate user comments etc.)
+- [ ] Deploy client on netlify and backend API on AWS/Seed
 - [ ] Look into using Redis as a cache
 - [ ] Make any neccessary changes/improvements
 - [ ] Create Browser extension/add-on version
